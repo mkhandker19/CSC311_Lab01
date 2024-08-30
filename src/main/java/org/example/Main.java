@@ -9,8 +9,8 @@ public class Main {
         Car car2 = new Car(3, "Red", 8, "Electric", "BMW");
         car2.displayInfo();
         car2.honk();
-        }
     }
+}
 
      class Vehicle {
        private int numberOfWheels;
